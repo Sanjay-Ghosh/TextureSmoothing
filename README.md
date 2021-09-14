@@ -1,2 +1,3 @@
 # TextureSmoothing
-Fast Scale-Adaptive Bilateral Texture Smoothing, IEEE Transactions on Circuits and Systems for Video Technology, 2019.
+IEEE TCSVT, 2020
+S. Ghosh, R. G. Gavaskar, D. Panda, and K. N. Chaudhury, “Fast scale-adaptive bilateral texture smoothing,” IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, no. 7, 2020.
